@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Dockerで起動したLaravel
                 </div>
 
                 <div class="links">
