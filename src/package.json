@@ -16,11 +16,16 @@
         "jquery": "^3.2",
         "laravel-mix": "^6.0.39",
         "lodash": "^4.17.19",
+        "minimatch": "^3.0.4",
         "popper.js": "^1.12",
+        "postcss": "^8.4.5",
         "resolve-url-loader": "^4.0.0",
         "sass": "^1.20.1",
         "sass-loader": "^8.0.0",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.10"
+    },
+    "dependencies": {
+        "csv-parse": "^5.0.4"
     }
 }
